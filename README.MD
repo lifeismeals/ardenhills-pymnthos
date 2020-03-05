@@ -29,6 +29,10 @@ programming:
 
 https://cryptopals.com/
 
+Another helpful list is here:
+
+https://github.com/jorgegonzalez/beginner-projects
+
 
 
 It is advisable nowadays to have some proficency in how 
