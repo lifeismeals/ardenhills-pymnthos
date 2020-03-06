@@ -27,13 +27,15 @@ that a novice can attack.
 I found exercises here to be pretty helpful to think about
 programming:
 
-https://cryptopals.com/
-
-Another helpful list is here:
-
 https://github.com/jorgegonzalez/beginner-projects
 
+I also found the first set of crypto challenges in the
+following site touches on a lot of basic skills in string 
+passing, type conversion and bit slicing.  The latter 
+challenges are very very difficult so do not be discouraged 
+if they seem daunting.
 
+https://cryptopals.com/
 
 It is advisable nowadays to have some proficency in how 
 the web works.  Readers having completed chapter 14 of 
