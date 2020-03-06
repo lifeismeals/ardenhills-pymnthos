@@ -55,4 +55,6 @@ Other frameworks, e.g. Django, come with a great deal of builtin
 functionality and efforts will be spent to illustrate that if 
 there is demand.
 
-
+For folks that enjoy watching videos, here are some options for Python beginners:
+* A 2 day class called Learn Python: https://www.learnpython.dev/
+* A YouTube playlist on starting Python: https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
