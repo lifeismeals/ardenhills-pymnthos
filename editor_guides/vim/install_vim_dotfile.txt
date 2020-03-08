@@ -1,0 +1,44 @@
+This is a simple vim dot file in this directory.  
+Please "dot.vimrc" as  ~/.vimrc in the user's home directory
+
+To quote Doug Black of "https://dougblack.io/words/a-good-vimrc.html": 
+
+Don't put anything in your .vimrc you don't understand!
+
+"Enable Syntax Checking"
+syntax enable 
+
+"Given FileType of make|python|go|ruby|perl, set the tab settings accordingly"
+
+autocmd FileType make setlocal noexpandtab
+autocmd FileType python set tabstop=4|set shiftwidth=4|set expandtab|set softtabstop=4
+autocmd FileType go set tabstop=4|set shiftwidth=4|set expandtab|set softtabstop=4
+autocmd FileType ruby set tabstop=2|set shiftwidth=2|set expandtab|set softtabstop=2
+autocmd FileType perl set tabstop=8|set shiftwidth=8|set expandtab|set softtabstop=8
+autocmd FileType * set tabstop=4|set shiftwidth=4|set noexpandtab|set softtabstop=4
+
+"Pick the editor colorscheme.  The user can go into vim, type :colorscheme and press tab"
+"to cycle through available color schemes"
+
+colorscheme evening 
+
+"Show line numbering"
+set number
+
+"Show command in bottom bar"
+set showcmd
+
+"high light the current line"
+set cursorline
+
+"load filetype specific indent files"
+
+filetype indent on
+
+"highlight matching parents/brackets/braces ([{}])
+set showmatch
+
+"highlight matches on success"
+set hlsearch
+
+
