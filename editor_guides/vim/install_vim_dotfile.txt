@@ -41,4 +41,11 @@ set showmatch
 "highlight matches on success"
 set hlsearch
 
+Other references for configuring vim for python:
+
+https://justin.abrah.ms/vim/vim_and_python.html
+https://joelhooks.com/blog/2013/04/23/5-essential-vim-plugins
+
+A Debian/Ubuntu specific guide:
+https://realpython.com/vim-and-python-a-match-made-in-heaven/
 
