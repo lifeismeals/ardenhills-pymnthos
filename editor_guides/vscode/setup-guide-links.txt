@@ -1,0 +1,9 @@
+Some links I found helpful for setting up vscode:
+
+https://code.visualstudio.com/docs/python/python-tutorial
+
+https://code.visualstudio.com/docs/languages/python
+
+https://code.visualstudio.com/docs/python/environments
+
+
